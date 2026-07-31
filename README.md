@@ -78,3 +78,5 @@ Both also fail asymmetrically rather than uniformly. Overall accuracy hides this
 - `train_xray.py`, `train_mri.py`
 - `app.py` — Gradio demo, tabbed by scan type
 - `weights/`
+- NOTE:WEIGHTS WILL BE PROVIDED ON REQUEST OR WITH RELEASE LATER
+- 
